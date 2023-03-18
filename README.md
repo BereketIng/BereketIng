@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bereket @BereketIng
 - 👀 I’m interested in C#, Javacript, Kotlin, Python
-- 🌱 I’m currently learning one of the javacript frameworks
 - 💞️ I’m looking to collaborate on anything health related
 - 📫 How to reach me bteketel@gmail.com
 
